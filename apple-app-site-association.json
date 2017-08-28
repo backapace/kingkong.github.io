@@ -1,0 +1,28 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VP8JGBCQ5U.com.pcauto.app.browser",
+                "paths": [
+                    "/xsp/s/auto/info/nocache/ulinks/pcautobrowser/*",
+                    "/"
+                ]
+            },
+            {
+                "appID": "387XP6LY3T.com.pcauto.app.browser.inhouse",
+                "paths": [
+                    "/xsp/s/auto/info/nocache/ulinks/pcautobrowserinhouse/*",
+                    "/"
+                ]
+            },
+            {
+                "appID": "387XP6LY3T.com.pc.app.test",
+                "paths": [
+                    "/pctest_inhouse/*",
+                    "/"
+                ]
+            }
+        ]
+    }
+}
